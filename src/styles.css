@@ -1,0 +1,2 @@
+/* The existing AI Copier Doctor component injects its own global styles. */
+html, body, #root { min-height: 100%; }
